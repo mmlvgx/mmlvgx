@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on [yakui](https://github.com/mmlvgx/yakui)
+- 🌱 I’m currently learning C++
 
 # Github Statistics
 ![mmlvgx's GitHub statistics](https://github-readme-stats.vercel.app/api?username=mmlvgx&show_icons=true&theme=dark)
