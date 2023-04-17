@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [yakui](https://github.com/mmlvgx/yakui)
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on [**yakui**](https://github.com/mmlvgx/yakui)
+- 🌱 I’m currently learning **C++**
 
+# Preferences
+- Font: `JetBrains Mono`
+- Theme: `Darcula`
+- IDE: `Visual Studio Code`
 # Github Statistics
-![mmlvgx's GitHub statistics](https://github-readme-stats.vercel.app/api?username=mmlvgx&show_icons=true&theme=dark)
+![mmlvgx's GitHub statistics](https://github-readme-stats.vercel.app/api?username=mmlvgx&show_icons=true&theme=darcula)
 # Top languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmlvgx&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmlvgx&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 # Skills
 <div align="center">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />
