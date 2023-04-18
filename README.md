@@ -9,7 +9,7 @@
 - IDE: `Visual Studio Code`
 
 # Github Statistics
-![mmlvgx's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmlvgx&show_icons=true&theme=transparent&hide_border=true)
+![mmlvgx's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmlvgx&show_icons=true&theme=darcula&hide_border=true)
 
 # Skills
 <div align="center">
