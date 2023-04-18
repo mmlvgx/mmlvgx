@@ -11,6 +11,9 @@
 # Github Statistics
 ![mmlvgx's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmlvgx&show_icons=true&theme=darcula&hide_border=true)
 
+# Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmlvgx&theme=darcula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 # Skills
 <div align="center">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />
