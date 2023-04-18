@@ -8,6 +8,9 @@
 - Theme: `Darcula`
 - IDE: `Visual Studio Code`
 
+# Github Statistics
+![mmlvgx's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmlvgx&show_icons=true&theme=transparent&hide_border=true)
+
 # Skills
 <div align="center">
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />
