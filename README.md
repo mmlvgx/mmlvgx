@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [**yakui**](https://github.com/BosniaDevelopment/NodeBot.git)
+- 🔭 I’m currently working on [**NodeBot**](https://github.com/BosniaDevelopment/NodeBot.git)
 - 🌱 I’m currently learning **Python**
 
 # Preferences
