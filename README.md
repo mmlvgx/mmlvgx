@@ -5,7 +5,7 @@
 
 # Preferences
 - Font: `JetBrains Mono`
-- Theme: `Darcula`
+- Theme: `Catppuccin Frappe`
 - IDE: `Visual Studio Code`
 
 # Github Statistics
