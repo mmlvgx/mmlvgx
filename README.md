@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [**yakui**](https://github.com/mmlvgx/yakui)
-- 🌱 I’m currently learning **C++**
+- 🔭 I’m currently working on [**yakui**](https://github.com/BosniaDevelopment/NodeBot.git)
+- 🌱 I’m currently learning **Python**
 
 # Preferences
 - Font: `JetBrains Mono`
